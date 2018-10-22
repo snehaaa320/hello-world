@@ -1,3 +1,3 @@
 # hello-world
 
-Hey! I'm a first year student at Santa Clara University..
+Hey! I'm a senior CS major at Santa Clara University.
